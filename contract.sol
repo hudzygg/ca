@@ -1,18 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2023-05-11
-*/
-
-/**
- *Submitted for verification at Etherscan.io on 2023-05-10
-*/
-
-// SPDX-License-Identifier: MIT
-/**
- * https://t.me/beavercoinerc20
- * https://twitter.com/BeaverCoinERC20
- * https://linktr.ee/beavercoin
- */
-
 pragma solidity 0.8.19;
 
 library SafeMath {
